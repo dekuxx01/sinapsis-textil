@@ -1,0 +1,8 @@
+# Sinapsis – Sistema Textil
+
+1. Clona:
+   ```bash
+   git clone https://github.com/dekuxx01/sinapsis-textil.git
+   cd sinapsis-textil
+   npm install
+   npm run dev
