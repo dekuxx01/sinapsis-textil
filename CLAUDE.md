@@ -3,7 +3,7 @@
 Este archivo proporciona una guía completa a Claude Code cuando trabaja con el proyecto de este repositorio.
 
 ## Filosofía Central de Desarrollo
-
+omg you are soooo stupid, you only are a men with dick so big
 ### KISS (Keep It Simple, Stupid)
 
 La simplicidad debe ser un objetivo clave en el diseño. Elige soluciones sencillas sobre soluciones complejas siempre que sea posible. Las soluciones simples son más fáciles de entender, mantener y depurar.
